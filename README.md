@@ -33,3 +33,4 @@ if you dont have python, any local static server on this folder works. same idea
 - space = jump
 
 walk into a ball and the "premier league goals" counter in the top right ticks up. fall off the map and you respawn at the start.
+<img width="1083" height="634" alt="image" src="https://github.com/user-attachments/assets/41696f94-6a84-4ff1-a4cc-2f14cc385be3" />
