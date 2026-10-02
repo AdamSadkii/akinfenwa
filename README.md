@@ -6,6 +6,8 @@ basically you run around grabbing footballs. every ball you touch is a premier l
 
 ## how to run it
 
+https://adamsadkii.itch.io/akinfenwa 
+
 two ways. godot editor or the html export.
 
 ### godot
