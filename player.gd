@@ -1,8 +1,8 @@
 extends CharacterBody2D
 
 
-const SPEED = 900.0
-const JUMP_VELOCITY = -1250.0
+const SPEED = 400.0
+const JUMP_VELOCITY = -3400.0
 
 var goal_counter = 0
 var spawn_position: Vector2

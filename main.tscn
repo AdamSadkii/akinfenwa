@@ -2333,7 +2333,7 @@ script = ExtResource("1_1bvp3")
 texture = ExtResource("2_lquwl")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=225332486]
-position = Vector2(22, 6.5)
+position = Vector2(22, -26)
 shape = SubResource("RectangleShape2D_ybvqd")
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=767189736]
@@ -2342,7 +2342,7 @@ zoom = Vector2(0.2, 0.2)
 [node name="Area2D" type="Area2D" parent="Player" unique_id=387203616]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player/Area2D" unique_id=1888703085]
-position = Vector2(22, 6.5)
+position = Vector2(22, -26)
 shape = SubResource("RectangleShape2D_pickup")
 
 [node name="Balls" type="Node2D" parent="." unique_id=1706601817]
